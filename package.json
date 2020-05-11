@@ -1,0 +1,36 @@
+{
+  "name": "watermark-svg-config",
+  "version": "1.0.0",
+  "description": "Watermark composed of SVG and Base64",
+  "main": "dist/watermark-svg-config.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvSally/watermark-config.git"
+  },
+  "keywords": [
+    "watermark",
+    "watermark-svg-config",
+    "svg",
+    "base64"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvSally/watermark-config/issues"
+  },
+  "homepage": "https://github.com/lvSally/watermark-config#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "rollup": "^2.9.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  }
+}
